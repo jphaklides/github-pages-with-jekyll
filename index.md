@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Jeff's Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Thanks for stopping by. Let's talk sound design.
